@@ -3,14 +3,13 @@
 
 # ========== ByPa55 ============
 
-# author      : siruidops
-# email       : sir.u1d0p5@gmail.com
-# github      : https://github.com/siruidops/bypa55
+# author      : uidops
+# email       : uidopssu@gmail.com
+# github      : https://github.com/siruidops/sqlinjection-form-bypass
 # description : a tool for auto by passing login page admin and ...
 
 # ==============================
-# Telegram: @softhacking
-#
+
 
 import sys
 import os
@@ -57,9 +56,9 @@ def banner():
 	print
 	print logo
 	print
-	print brown+" Author"+end+": "+green+"SirUidops"+end
-	print brown+" Email "+end+": "+green+"sir.u1d0p5@gmail.com"+end
-	print brown+" Github"+end+": "+green+"https://github.com/siruidops/bypa55"+end
+	print brown+" Author"+end+": "+green+"uidops"+end
+	print brown+" Email "+end+": "+green+"uidopssu@gmail.com"+end
+	print brown+" Github"+end+": "+green+"https://github.com/siruidops/sqlinjection-form-bypasser"+end
 	print
 	print brown+"  Usage "+end+"=>"+green+" ./bypass.py [Options]"+end
 	print
