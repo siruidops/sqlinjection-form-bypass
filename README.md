@@ -4,8 +4,6 @@
 <p>This Script Tested On Linux Operation System </p>
 <p>This Script Powered By Python Version 2.7</p>
 
-[Follow My Friend In Telegram Channel](https://t.me/softhacking)
-
 ```bash
 bbbbbbbb  y      y      pppppppppp             555555555 555555555
 b       b y      y      p        p             5         5
@@ -15,9 +13,9 @@ b       b        y      p          a      a            5         5
 b       b        y      p          a      aaa          5         5
 bbbbbbbb  yyyyyyyy      p          aaaaaaaaa a 555555555 555555555
 
- Author   : Sir uidops
- Email    : Sir.u1d0p5@gmail.com
- Github   : https://github.com/siruidops/bypass
+ Author   : uidops
+ Email    : uidopssu@gmail.com
+ Github   : https://github.com/siruidops/sqlinjection-form-bypass
 
   Usage => ./bypass.py [Options]
 
@@ -37,7 +35,7 @@ bbbbbbbb  yyyyyyyy      p          aaaaaaaaa a 555555555 555555555
 ```bash
 sudo apt-get update
 sudo apt-get install git python python-pip -y
-git clone https://github.com/siruidops/ByPa55.git
+git clone https://github.com/siruidops/sqlinjection-form-bypass.git
 cd ByPa55/
 ./install
 python bypass.py
@@ -50,7 +48,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 pkg update
 pkg install git python2 -y
-git clone https://github.com/siruidops/ByPa55.git
+git clone https://github.com/siruidops/sqlinjection-form-bypass.git
 cd ByPa55/
 ./install-termux
 python2 bypass.py<
