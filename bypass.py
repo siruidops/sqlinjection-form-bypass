@@ -4,7 +4,7 @@
 # ========== ByPa55 ============
 
 # author      : uidops
-# email       : uidopssu@gmail.com
+# email       : uidopsu@gmail.com
 # github      : https://github.com/siruidops/sqlinjection-form-bypass
 # description : a tool for auto by passing login page admin and ...
 
