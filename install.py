@@ -3,9 +3,9 @@
 
 # ========== ByPa55 ============
 
-# author      : siruidops
-# email       : sir.u1d0p5@gmail.com
-# github      : https://github.com/siruidops/bypa55
+# author      : uidops
+# email       : uidopsu@gmail.com
+# github      : https://github.com/siruidops/sqlinjection-form-bypass
 # description : a tool for auto bypassing login page admin and ...
 
 # ==============================
