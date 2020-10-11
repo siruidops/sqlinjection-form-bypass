@@ -57,7 +57,7 @@ def banner():
 	print logo
 	print
 	print brown+" Author"+end+": "+green+"uidops"+end
-	print brown+" Email "+end+": "+green+"uidopssu@gmail.com"+end
+	print brown+" Email "+end+": "+green+"uidopsu@gmail.com"+end
 	print brown+" Github"+end+": "+green+"https://github.com/siruidops/sqlinjection-form-bypasser"+end
 	print
 	print brown+"  Usage "+end+"=>"+green+" ./bypass.py [Options]"+end
