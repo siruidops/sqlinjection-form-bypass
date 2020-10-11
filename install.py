@@ -21,9 +21,9 @@ def banner():
 	print
 	print yellow+" -*- Welcome To ByPa55 Installer -*-"+end
 	print
-	print brown+"   Author"+end+": "+green+"SirUidops"+end
-	print brown+"   Email"+end+" : "+green+"Sir.u1d0p5@gmail.com"+end
-	print brown+"   Github"+end+": "+green+"https://github.com/siruidops/ByPa55"+end
+	print brown+"   Author"+end+": "+green+"uidops"+end
+	print brown+"   Email"+end+" : "+green+"uidopsu@gmail.com"+end
+	print brown+"   Github"+end+": "+green+"https://github.com/siruidops/sqlinjection-form-bypass"+end
 	print
 
 def install():
