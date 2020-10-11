@@ -14,7 +14,7 @@ b       b        y      p          a      aaa          5         5
 bbbbbbbb  yyyyyyyy      p          aaaaaaaaa a 555555555 555555555
 
  Author   : uidops
- Email    : uidopssu@gmail.com
+ Email    : uidopsu@gmail.com
  Github   : https://github.com/siruidops/sqlinjection-form-bypass
 
   Usage => ./bypass.py [Options]
