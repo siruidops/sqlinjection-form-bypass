@@ -1,4 +1,4 @@
-# IG OPS
+# Bypass
 
 <p>This application is a Auto By Passer</p>
 <p>This Script Tested On Linux Operation System </p>
